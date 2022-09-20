@@ -1,0 +1,18 @@
+INFO 2022-08-19 23:28:23,353 root  we are into function
+INFO 2022-08-19 23:28:26,602 root  first number entered  3 
+INFO 2022-08-19 23:28:27,602 root  there should not be string
+INFO 2022-08-19 23:28:27,602 root  we are into function
+INFO 2022-08-19 23:28:29,117 root  first number entered  2424 
+INFO 2022-08-19 23:28:30,304 root  second number entered  0
+INFO 2022-08-19 23:28:30,304 root  division by zero
+ERROR 2022-08-19 23:28:30,304 root  division by zero
+Traceback (most recent call last):
+  File "D:\full_stack\MyPractice\Python\pycharm\Task6\task__.py", line 13, in input_2_integers_and_calculate_division
+    c = a / b
+ZeroDivisionError: division by zero
+INFO 2022-08-19 23:28:30,304 root  we are into function
+INFO 2022-08-19 23:28:31,961 root  there should not be string
+INFO 2022-08-19 23:28:31,961 root  we are into function
+INFO 2022-08-19 23:28:32,961 root  first number entered  0 
+INFO 2022-08-19 23:28:34,945 root  second number entered  313
+INFO 2022-08-19 23:28:34,945 root  result---> 0.0
